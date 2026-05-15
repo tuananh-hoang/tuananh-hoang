@@ -12,10 +12,9 @@
 
 I'm an AI/ML student and engineer interested in Computer Vision, Face Recognition, Speech Synthesis, NLP, and Edge AI deployment.
 
-- 🎓 Computer Science student at Hanoi University of Mining and Geology
 - 🏆 First Prize - OLP AI Northern Region 2025
-- 🔬 Researching risk-constrained face recognition on edge devices
-- 🤖 Building AI systems with PyTorch, InsightFace, OpenCV, FAISS, Docker, and Hugging Face
+- 🔊 Researching low-resource Text-to-Speech for the Cuoi Cham language
+- 🤖 Building AI systems with PyTorch, InsightFace, Docker, AWS, Terraform, and Hugging Face
 - 📫 Reach me at: [stephenhtuananh@gmail.com](mailto:stephenhtuananh@gmail.com)
 
 <br clear="right"/>
