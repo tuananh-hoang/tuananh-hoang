@@ -30,17 +30,19 @@ I'm an AI/ML student and engineer interested in Computer Vision, Face Recognitio
 - 
 ## Featured Projects
 
-[![Cuoi Cham TTS](https://github-readme-stats.vercel.app/api/pin/?username=tuananh-hoang&repo=textToSpeechCuoiCham)](https://github.com/tuananh-hoang/textToSpeechCuoiCham)
+### [Cuoi Cham TTS](https://github.com/tuananh-hoang/textToSpeechCuoiCham)
+Low-resource end-to-end TTS system for Cuoi Cham language using VITS, Coqui TTS, and custom G2P preprocessing.
 
-[![Face Attendance MVP](https://github-readme-stats.vercel.app/api/pin/?username=tuananh-hoang&repo=face-attendance-mvp)](https://github.com/tuananh-hoang/face-attendance-mvp)
+### [Face Attendance MVP](https://github.com/tuananh-hoang/face-attendance-mvp)
+Real-time face recognition attendance system using RetinaFace, ArcFace, InsightFace, SQLite, and Telegram notification.
 
-[![Face Recognition Edge Research](https://github-readme-stats.vercel.app/api/pin/?username=tuananh-hoang&repo=research_face_recognition_edge_device)](https://github.com/tuananh-hoang/research_face_recognition_edge_device)
+### [Face Recognition Edge Research](https://github.com/tuananh-hoang/research_face_recognition_edge_device)
+Risk-constrained face verification research on edge devices with FAR-budget calibration, defer policy, and AWS edge-constrained simulation.
 ## Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,git,linux,aws,fastapi,sqlite,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,docker,git,linux,aws,fastapi,sqlite" />
 </p>
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
