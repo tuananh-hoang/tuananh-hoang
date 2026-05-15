@@ -6,10 +6,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-stephenhtuananh-red?style=for-the-badge&logo=gmail)](mailto:stephenhtuananh@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=tuananh-hoang&style=for-the-badge)
 
-<img align="right" width="380" src="assets/coding.gif" alt="Coding GIF">
+<p align="center">
+  <img width="420" src="assets/coding.gif" alt="Coding GIF">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Stephen+Hoang.;I+build+AI+systems+that+move+from+papers+to+production.;Research.+Engineer.+Deploy." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Stephen+Hoang.;I+build+AI+systems+that+move+from+papers+to+production.;Research.+Engineer.+Deploy.;Low-resource+Speech+%7C+Computer+Vision+%7C+Edge+AI" alt="Typing SVG" />
 </p>
 ## Glad to see you here!
 
