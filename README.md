@@ -21,12 +21,11 @@ I'm an AI/ML student and engineer interested in Computer Vision, Face Recognitio
 
 ## Research Interests
 
-- Computer Vision and Face Recognition
-- Edge AI and resource-constrained inference
-- Risk-constrained decision systems
 - Speech Synthesis for low-resource languages
+- Computer Vision and Face Recognition
 - Semantic Search and Information Retrieval
-- 
+- Edge AI and resource-constrained inference
+
 ## Featured Projects
 
 ### [Cuoi Cham TTS](https://github.com/tuananh-hoang/textToSpeechCuoiCham)
