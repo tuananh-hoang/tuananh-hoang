@@ -1,5 +1,4 @@
 
-[![GitHub](https://img.shields.io/badge/GitHub-tuananh--hoang-black?style=for-the-badge&logo=github)](https://github.com/tuananh-hoang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tuananh--hoang28-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuananh-hoang28)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-stephenhoang-yellow?style=for-the-badge)](https://huggingface.co/stephenhoang)
 [![Gmail](https://img.shields.io/badge/Gmail-stephenhtuananh-red?style=for-the-badge&logo=gmail)](mailto:stephenhtuananh@gmail.com)
