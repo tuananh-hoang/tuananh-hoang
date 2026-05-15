@@ -1,4 +1,3 @@
-# Hi there 👋, I'm Hoang Tuan Anh
 
 [![GitHub](https://img.shields.io/badge/GitHub-tuananh--hoang-black?style=for-the-badge&logo=github)](https://github.com/tuananh-hoang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tuananh--hoang28-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuananh-hoang28)
@@ -55,19 +54,6 @@ Risk-constrained face verification research on edge devices with FAR-budget cali
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![InsightFace](https://img.shields.io/badge/InsightFace-Face%20Recognition-green?style=flat-square)
-
-## GitHub Stats
-
-![Tuan Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuananh-hoang&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananh-hoang&layout=compact&theme=default)
-
-## Connect With Me
-
-- GitHub: [github.com/tuananh-hoang](https://github.com/tuananh-hoang)
-- LinkedIn: [linkedin.com/in/tuananh-hoang28](https://linkedin.com/in/tuananh-hoang28)
-- Hugging Face: [huggingface.co/stephenhoang](https://huggingface.co/stephenhoang)
-- Email: [stephenhtuananh@gmail.com](mailto:stephenhtuananh@gmail.com)
 
 ---
 
